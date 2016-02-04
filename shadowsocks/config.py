@@ -3,7 +3,7 @@ import logging
 #Config
 MYSQL_HOST = '106.2.113.96'
 MYSQL_PORT = 3306
-MYSQL_USER = 'shadowsocks'
+MYSQL_USER = 'shadowsocks1'
 MYSQL_PASS = '1231512315'
 MYSQL_DB = 'shadowsocks'
 
