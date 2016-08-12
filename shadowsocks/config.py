@@ -1,11 +1,11 @@
 import logging
 
 #Config
-MYSQL_HOST = '106.2.113.96'
+MYSQL_HOST = 'sql.wenwall.com'
 MYSQL_PORT = 3306
-MYSQL_USER = 'shadowsocks'
+MYSQL_USER = 'qingran'
 MYSQL_PASS = '1231512315'
-MYSQL_DB = 'shadowsocks'
+MYSQL_DB = 'qingran'
 
 MANAGE_PASS = 'passwd'
 #if you want manage in other server you should set this value to global ip
