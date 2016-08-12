@@ -3,7 +3,7 @@ import logging
 #Config
 MYSQL_HOST = 'sql.wenwall.com'
 MYSQL_PORT = 3306
-MYSQL_USER = 'qingran'
+MYSQL_USER = 'free'
 MYSQL_PASS = '1231512315'
 MYSQL_DB = 'qingran'
 
